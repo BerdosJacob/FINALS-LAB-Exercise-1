@@ -1,5 +1,4 @@
 <?php
-// LAB Exercise #5
 header('Content-Type: application/json');
 
 $json_input = file_get_contents('php://input');
