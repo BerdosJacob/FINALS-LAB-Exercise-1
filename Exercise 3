@@ -1,5 +1,4 @@
 <?php
-// LAB Exercise#3
 header('Content-Type: application/json');
 
 $user = array(
